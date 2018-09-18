@@ -31,6 +31,18 @@ Document(PRD).
 responsibilites of the product manager. This is important not only for the
 product management team, but also for other cross-functional teams.
 
+### Represent Product Internally
+  1. Evangelism of the product. Represent the product team across the company,
+so as to get resources from the company(or the product may be cancelled).
+  2. Review executives' points --> they may soud like giving specific strategy
+when they only mean to suggest alternatives to be investigated and considered.
+Good product manager should verify if it's valid or not.
+
+### Represents Customer
+  1. During a product being designed, developed, tested, and released, there're
+hundereds of decisions to make. Good product manager should represent target
+customers and ensure target customers are considered in these process.
+
 ## What's NOT a Product Manager's Responsibilities
 
 ### Product Manager do NOT manage people
@@ -41,5 +53,19 @@ managers, and the testers work for QA managers, and so on...
   Product manager does not have authority but maintains strong relationships
 with the members of the team by mutual earned respect and his ability to
 persuade with facts, logic, and profession.
+
+# Characteristics of Good Product Manager
+## Personal Traits
+### Product Passion
+### Customer Empathy
+### Intelligence
+### Work Ethic
+### Integrity
+### Confidence
+### Communication Skills
+
+## Knowledge
+## Attitude
+## Skills
 
 
