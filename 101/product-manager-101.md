@@ -56,13 +56,23 @@ persuade with facts, logic, and profession.
 
 # Characteristics of Good Product Manager
 ## Personal Traits
+### Communication Skills
+1. Communication skills including writing, speaking, or both. And these skills
+are required from start.
+2. Communication skills can be learned, but it can take years to become an
+effective speaker or writer.
+3. A good product manager must speak clearly enough to be easily understood, and
+write powerfully enough to persuade, remember communication is the tool for a
+good product manager to perform his daily duty.
+
 ### Product Passion
 ### Customer Empathy
 ### Intelligence
 ### Work Ethic
 ### Integrity
 ### Confidence
-### Communication Skills
+
+
 
 ## Knowledge
 ## Attitude
