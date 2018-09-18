@@ -2,8 +2,8 @@
 ## Create development strategy for the product
 1. Analysis industrial data, and user data, decide the right feature to
 implement at the right time for our product.
-2. Interviewing existing customers and competitors' customers, record and weigh
-feedback as source of ideas.
+2. Interviewing customers and competitors' customers, record and weigh feedback
+as source of ideas.
 3. User behavior analysis by installing "sensors" across our system.
 4. Interviewing with company's sales team, developer team, and operation team,
 and record feedback as source of improvement aspects.
@@ -33,5 +33,5 @@ of future releases.
 # Qualifications
 ## Bachelor Degree of Computer Science
 ## 7 Years of Experience in the Industry as a web developer
-## Passion to create good and profitable products
+## Passionate to create good and profitable products
 ## Tech person, details oriented
