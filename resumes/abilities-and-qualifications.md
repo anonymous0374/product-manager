@@ -1,4 +1,18 @@
 # Abilities
+## Create product from ground up
+1. Study the market, analysis competitor's strategy and products, discuss with
+stakeholders to create and optimize our own product's strategy.
+2. Create product roadmap, and release plans.
+3. Communicate with teams across the company(sales team, develop team, QA team,
+UI/UX teams), to clarify the strategy, provide PRD and other specifications for
+them to get start.
+4. Manage releases and full life-cycle of each release, assert risks in advance
+and ensure risks are exposed and managed.
+5. Record features and changes of each release for reference, and also ensure
+the releases are moving toward the correct direction.
+6. Work with sales team and operation team to collect feedback, analysis them
+and make optimizations in future releases.
+
 ## Create development strategy for the product
 1. Analysis industrial data, and user data, decide the right feature to
 implement at the right time for our product.
